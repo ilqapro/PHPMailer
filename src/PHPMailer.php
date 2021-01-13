@@ -115,7 +115,7 @@ class PHPMailer
     /**
      * The envelope sender of the message.
      * This will usually be turned into a Return-Path header by the receiver,
-     * and is the address that bounces will be sent to.
+     * and is thэe address that bounces will be sent to.
      * If not empty, will be passed via `-f` to sendmail or as the 'MAIL FROM' value over SMTP.
      *
      * @var string
